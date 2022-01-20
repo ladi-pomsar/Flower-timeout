@@ -1,6 +1,6 @@
 # Flower-timeout
 Repo for investigation of timeouts that happens with prolonged training on clients. This repository is meant purely for demonstration of the problem. 
-All the code is just modified original code of Flower's tutorial for purpose of demonstration. All the credit goes to the flower team. 
+All the code is just modified original code of Flower's advanced-tensorflow tutorial for purpose of demonstration. All the credit goes to the flower team. Original repo - https://github.com/adap/flower .
 
 As of code modification, only run.sh files and server.py (server case) or client.py (client-1/-2) were modified to use a single partition and work over the internet.
 
